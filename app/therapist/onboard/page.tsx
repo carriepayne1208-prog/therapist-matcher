@@ -1,4 +1,3 @@
-// /app/therapist/onboard/page.tsx
 import TherapistOnboardingForm from "@/components/TherapistOnboardingForm";
 
 export default function Page() {
