@@ -1,4 +1,3 @@
-// /lib/matching.ts
 export type Therapist = {
   therapist_id: string;
   full_name?: string | null;
