@@ -1,4 +1,3 @@
-// /app/api/slots/route.ts
 import { NextRequest, NextResponse } from "next/server";
 import { supabaseAnon } from "@/lib/supabase";
 import { generateCandidateSlots, subtractBusy } from "@/lib/slots";
