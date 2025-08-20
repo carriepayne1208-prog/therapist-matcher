@@ -1,4 +1,3 @@
-// /app/api/match/route.ts
 import { NextRequest, NextResponse } from "next/server";
 import { supabaseAnon } from "@/lib/supabase";
 import { scoreTherapist, Intake } from "@/lib/matching";
