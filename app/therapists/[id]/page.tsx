@@ -1,4 +1,3 @@
-// /app/therapists/[id]/page.tsx
 import TherapistCard from "@/components/TherapistCard";
 
 export default function Page({ params }:{ params:{ id:string }}) {
