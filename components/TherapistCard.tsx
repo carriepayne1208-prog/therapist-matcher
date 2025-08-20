@@ -1,4 +1,3 @@
-// /components/TherapistCard.tsx
 "use client";
 import { useEffect, useState } from "react";
 
