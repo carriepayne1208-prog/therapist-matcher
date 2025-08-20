@@ -1,4 +1,3 @@
-// /app/client/intake/page.tsx
 import ClientIntakeForm from "@/components/ClientIntakeForm";
 
 export default function Page() {
