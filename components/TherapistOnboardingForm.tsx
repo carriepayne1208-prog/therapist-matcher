@@ -1,4 +1,3 @@
-// /components/TherapistOnboardingForm.tsx
 "use client";
 import { useState } from "react";
 import { supabaseAnon } from "@/lib/supabase";
