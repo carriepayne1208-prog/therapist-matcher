@@ -1,4 +1,3 @@
-// /app/api/consults/create/route.ts
 import { NextRequest, NextResponse } from "next/server";
 import { supabaseAnon } from "@/lib/supabase";
 
