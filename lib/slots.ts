@@ -1,4 +1,3 @@
-// /lib/slots.ts
 import { rrulestr } from "rrule";
 import dayjs from "dayjs";
 
